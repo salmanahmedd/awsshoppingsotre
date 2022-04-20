@@ -1,1 +1,1 @@
-# awsshoppingsotre
+# awsshoppingstore
